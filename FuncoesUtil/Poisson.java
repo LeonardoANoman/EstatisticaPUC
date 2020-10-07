@@ -6,6 +6,7 @@ package FuncoesUtil;
  * P(X = x) = (e^-l * l^x)/x! 
  * Sendo l = lambda
  */
+
 public class Poisson {
     public static double poisson(float lambda, int x) {
         double p = Math.pow(Math.E, lambda);

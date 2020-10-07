@@ -4,7 +4,6 @@ package FuncoesUtil;
  * Distribuição Binomial 
  * Fórmula Original: 
  * (n x) = n! / x! * (n -x)! * p^x * (1-p)^(n-x)
- * 
  */
 
 public class Binomial {
