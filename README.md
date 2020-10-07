@@ -9,6 +9,7 @@ Este repositório serve apenas para desenvolver nossa capacidade de transformar 
 
 ## Funções abordadas
 
+Distribuição Binomial.
 Distruição de Poisson.
 
 ## Instruções de utilização
