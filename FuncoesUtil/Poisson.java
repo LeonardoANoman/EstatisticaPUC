@@ -1,7 +1,8 @@
 package FuncoesUtil;
 
 /*
- * Distribuição de Poisson Fórmula Original: 
+ * Distribuição de Poisson 
+ * Fórmula Original: 
  * P(X = x) = (e^-l * l^x)/x! 
  * Sendo l = lambda
  */
