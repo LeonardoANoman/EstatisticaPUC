@@ -10,6 +10,7 @@ Este repositório serve apenas para desenvolver nossa capacidade de transformar 
 ## Funções abordadas
 
 Distribuição Binomial.
+Distribuição Exponencial.
 Distribuição Hipergeométrica.
 Distruição de Poisson.
 
