@@ -11,7 +11,8 @@ package FuncoesUtil;
  */
 
 public class Hipergeometrica {
-    public static double hipergeometrica(int N, int a, int n, int x) {
-        return x;
+    public static double hipergeometrica(int N, int A, int n, int x) {
+        double resposta = Combinacao.combinacao(A, x) * Combinacao.combinacao(N - A, n - x);
+        return resposta / Combinacao.combinacao(N, n);
     }
 }

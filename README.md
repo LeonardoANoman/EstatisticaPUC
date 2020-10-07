@@ -10,7 +10,14 @@ Este repositório serve apenas para desenvolver nossa capacidade de transformar 
 ## Funções abordadas
 
 Distribuição Binomial.
+Distribuição Hipergeométrica.
 Distruição de Poisson.
+
+## Classes utilitárias
+
+Combinação.
+Fatorial.
+Fatorial simplificado.
 
 ## Instruções de utilização
 

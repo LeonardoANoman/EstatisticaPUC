@@ -1,6 +1,4 @@
-import FuncoesUtil.Combinacao;
-import FuncoesUtil.Fatorial;
-import FuncoesUtil.FatorialSimplificado;
+import FuncoesUtil.Hipergeometrica;
 
 public class App {
 
@@ -8,6 +6,7 @@ public class App {
      * Classe Main para testar funções
      */
     public static void main(String[] args) {
-        System.out.println(Combinacao.combinacao(20, 5));
+        System.out.println(Hipergeometrica.hipergeometrica(40, 10, 5, 2));
+
     }
 }
